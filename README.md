@@ -82,5 +82,5 @@ This project leverages **machine learning** to:
 
 ## 📜 License
 This project is intended for research and educational purposes only.  
-(Include license type if required – MIT, Apache 2.0, etc.)
+(Include license type  – MIT, Apache 2.0, etc.)
 
